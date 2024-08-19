@@ -1,14 +1,14 @@
 ---
 layout: home
-title: wmServer - Portable HTTP Server for Windows - PHP & MySQL
-description: wmServer is a lightweight, portable HTTP server for Windows with PHP & MySQL. Open-source, no installation required. Easy setup for developers.
+title: wmWebStack - Portable HTTP Server for Windows - PHP & MySQL
+description: wmWebStack is a lightweight, portable HTTP server for Windows with PHP & MySQL. Open-source, no installation required. Easy setup for developers.
 ---
 # Welcome to wmWebStack
 
 **wmWebStack** is a free and installable software package that provides an all-in-one solution for web development on Windows. It includes an intuitive graphical interface that allows you to manage all essential web development tools and utilities with ease. Ideal for developers, testers, and anyone in need of a portable and easy-to-use server solution, wmWebStack offers a robust set of features without the complexity.
 
 <div style="display: flex; gap: 10px; margin-top: 20px;">
-  <a href="https://github.com/yourusername/wmServer/archive/refs/heads/main.zip" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Download</a>
+  <a href="https://github.com/wikimint/wmWebStack/releases" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Download</a>
   <a href="#documentation" style="background-color: #008CBA; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Documentation</a>
 </div>
 
