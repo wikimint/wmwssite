@@ -28,7 +28,6 @@
 
 - [Getting Started](https://webstack.wikimint.com/docs/getting-started.md)
 - [How to Configure](https://webstack.wikimint.com/docs/configuration.md)
-- [Publish with Serveo](https://webstack.wikimint.com/docs/serveo.md)
 - [FAQ](https://webstack.wikimint.com/docs/faq.md)
 
 ## About Me

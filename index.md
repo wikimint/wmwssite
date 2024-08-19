@@ -39,8 +39,6 @@ description: wmServer is a lightweight, portable HTTP server for Windows with PH
 
 - **[Getting Started Guide](https://webstack.wikimint.com/docs/getting-started.md)**
 - **[Module Configuration](https://webstack.wikimint.com/docs/configuration.md)**
-- **[Serveo.net Setup](https://webstack.wikimint.com/docs/serveo.md)**
-- **[Troubleshooting](https://webstack.wikimint.com/docs/troubleshooting.md)**
 - **[FAQ](https://webstack.wikimint.com/docs/faq.md)**
 
 ## About the Developer
