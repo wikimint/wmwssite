@@ -15,8 +15,6 @@ description: wmWebStack is a lightweight, HTTP server for Windows with PHP & MyS
 <br/><br/>
 ![wmWebStack - a lightweight server stack for localhost with Apache, PHP and MySQL](assets/images/localhost-server-stack-apache-php-mysql.webp)
 
-
-
 ## Features
 
 - **Integrated Control Panel**: A user-friendly GUI with buttons to start and stop all modules like Apache, PHP, MySQL, and more.
