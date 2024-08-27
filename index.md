@@ -40,9 +40,9 @@ description: wmWebStack is a lightweight, HTTP server for Windows with PHP & MyS
 <a name="#documentation"></a>
 ## Documentation
 
-- **[Getting Started Guide](https://webstack.wikimint.com/docs/getting-started.md)**
-- **[Module Configuration](https://webstack.wikimint.com/docs/configuration.md)**
-- **[FAQ](https://webstack.wikimint.com/docs/faq.md)**
+- **[Getting Started Guide](https://webstack.wikimint.com/docs/getting-started)**
+- **[Module Configuration](https://webstack.wikimint.com/docs/configuration)**
+- **[FAQ](https://webstack.wikimint.com/docs/faq)**
 
 ## About the Developer
 
@@ -50,7 +50,7 @@ description: wmWebStack is a lightweight, HTTP server for Windows with PHP & MyS
 
 ## License
 
-**wmWebStack** is freeware. You are free to use and distribute the software, but the source code is not available for modification or redistribution. For more details, refer to the [EULA](https://webstack.wikimint.com/eula.md).
+**wmWebStack** is freeware. You are free to use and distribute the software, but the source code is not available for modification or redistribution. For more details, refer to the [EULA](https://webstack.wikimint.com/eula).
 
 ## Contact
 
