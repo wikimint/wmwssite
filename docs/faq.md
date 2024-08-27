@@ -16,7 +16,7 @@ Here are answers to some of the most common questions about **wmWebStack**.
 **A:** Download the installer from the [Releases page](https://github.com/wikimint/wmWebStack/releases), run it, and follow the installation instructions. A desktop shortcut will be created for easy access.
 
 **Q: What should I do if the installer fails?**  
-**A:** Ensure that you have the necessary permissions to install software on your system and that no other installation processes are running. If problems persist, check the [Troubleshooting Guide](https://webstack.wikimint.com/docs/troubleshooting).
+**A:** Ensure that you have the necessary permissions to install software on your system and that no other installation processes are running.
 
 ## Configuration
 
