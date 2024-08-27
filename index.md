@@ -8,7 +8,7 @@ description: wmWebStack is a lightweight, HTTP server for Windows with PHP & MyS
 **wmWebStack** is a free and installable software package that provides an all-in-one solution for web development on Windows. It includes an intuitive graphical interface that allows you to manage all essential web development tools and utilities with ease. Ideal for developers, testers, and anyone in need of an installable and easy-to-use server solution, wmWebStack offers a robust set of features without the complexity.
 
 <div style="display: flex; gap: 10px; margin-top: 20px;">
-  <a href="https://github.com/wikimint/wmWebStack/releases" target="_blank" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Download</a>
+  <a href="https://github.com/wikimint/wmWebStack/releases/latest" target="_blank" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Download</a>
   <a href="#documentation" style="background-color: #008CBA; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Documentation</a>
 </div>
 
