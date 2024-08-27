@@ -30,9 +30,9 @@
 - [How to Configure](https://webstack.wikimint.com/docs/configuration)
 - [FAQ](https://webstack.wikimint.com/docs/faq)
 
-## About Me
+## About the developer
 
-I’m **Selvakumaran Krishnan**, a web developer who loves making web development easier for everyone. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/selvakumaran-krishnan).
+**Selvakumaran Krishnan**, is a software developer and computer programmer who loves making web development easier for everyone. Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/selvakumaran-krishnan).
 
 ## License Info
 

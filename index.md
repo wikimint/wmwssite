@@ -12,6 +12,11 @@ description: wmWebStack is a lightweight, HTTP server for Windows with PHP & MyS
   <a href="#documentation" style="background-color: #008CBA; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Documentation</a>
 </div>
 
+<br/><br/>
+![wmWebStack - a lightweight server stack for localhost with Apache, PHP and MySQL](assets/images/localhost-server-stack-apache-php-mysql.webp)
+
+
+
 ## Features
 
 - **Integrated Control Panel**: A user-friendly GUI with buttons to start and stop all modules like Apache, PHP, MySQL, and more.
@@ -43,7 +48,7 @@ description: wmWebStack is a lightweight, HTTP server for Windows with PHP & MyS
 
 ## About the Developer
 
-**Selvakumaran Krishnan** is a Web Developer, Writer, and SEO Specialist. With extensive experience in web technologies, Selvakumaran created **wmWebStack** to streamline web development on Windows by combining all necessary tools in one easy-to-use package. Connect with him on [LinkedIn](https://www.linkedin.com/in/selvakumaran-krishnan).
+**Selvakumaran Krishnan** is a Software Developer and Computer Programmer. With extensive experience in web technologies, Selvakumaran created **wmWebStack** to streamline web development on Windows by combining all necessary tools in one easy-to-use package. Connect with him on [LinkedIn](https://www.linkedin.com/in/selvakumaran-krishnan).
 
 ## License
 

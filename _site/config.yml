@@ -2,9 +2,9 @@ remote_theme: jekyll/minima
 markdown: kramdown
 
 # Site settings
-title: wmWbStack - Apache, PHP, MySQL, live publishing server stack for Windows
+title: wmWebStack - HTTP Server Stack for Windows - Apache, PHP & MySQL
 description: >- # this means to ignore newlines until "baseurl:"
-  wmWebStack is a lightweight, HTTP server stack for Windows with Apache, PHP & MySQL. Free and easy setup for developers.
+  wmWebStack is a lightweight, installable HTTP server for Windows with all required server stacks. Easy live publishing in one click.
 url: "https://webstack.wikimint.com" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog
 
