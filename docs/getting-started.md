@@ -5,7 +5,7 @@ Welcome to **wmWebStack**! This guide will help you get up and running with your
 ## Installation
 
 1. **Download the Installer**
-   - Go to the [Releases page](https://github.com/yourusername/wmWebStack/releases) and download the latest `wmWebStackInstaller.exe`.
+   - Go to the [Releases page](https://github.com/wikimint/wmWebStack/releases) and download the latest `wmWebStackInstaller.exe`.
 
 2. **Run the Installer**
    - Double-click the downloaded installer and follow the on-screen instructions to install **wmWebStack** on your system.
@@ -37,7 +37,7 @@ Welcome to **wmWebStack**! This guide will help you get up and running with your
 
 ## Troubleshooting
 
-If you encounter issues, refer to the [Troubleshooting Guide](https://webstack.wikimint.com/docs/troubleshooting.md) for solutions or reach out to support.
+If you encounter issues, refer to the [Troubleshooting Guide](https://webstack.wikimint.com/docs/troubleshooting) for solutions or reach out to support.
 
-For further assistance, visit our [Support Page](https://webstack.wikimint.com/support).
+For further assistance, visit our [Support Page](https://developer.wikimint.com/p/contact.html).
 

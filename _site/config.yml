@@ -2,10 +2,10 @@ remote_theme: jekyll/minima
 markdown: kramdown
 
 # Site settings
-title: wmServer - Portable HTTP Server for Windows - PHP & MySQL
+title: wmWbStack - Apache, PHP, MySQL, live publishing server stack for Windows
 description: >- # this means to ignore newlines until "baseurl:"
-  wmServer is a lightweight, portable HTTP server for Windows with PHP & MySQL. Open-source, no installation required. Easy setup for developers.
-url: "https://selvaklnc.github.io/wmserver" # the base hostname & protocol for your site
+  wmWebStack is a lightweight, HTTP server stack for Windows with Apache, PHP & MySQL. Free and easy setup for developers.
+url: "https://webstack.wikimint.com" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog
 
 plugins:

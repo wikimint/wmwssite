@@ -26,9 +26,9 @@
 
 ## Need More Info?
 
-- [Getting Started](https://webstack.wikimint.com/docs/getting-started.md)
-- [How to Configure](https://webstack.wikimint.com/docs/configuration.md)
-- [FAQ](https://webstack.wikimint.com/docs/faq.md)
+- [Getting Started](https://webstack.wikimint.com/docs/getting-started)
+- [How to Configure](https://webstack.wikimint.com/docs/configuration)
+- [FAQ](https://webstack.wikimint.com/docs/faq)
 
 ## About Me
 
@@ -36,7 +36,7 @@ I’m **Selvakumaran Krishnan**, a web developer who loves making web developmen
 
 ## License Info
 
-**wmWebStack** is freeware. Enjoy using and sharing it, but note that the source code isn’t available for modifications. Check out the [EULA](https://webstack.wikimint.com/eula.md) for more details.
+**wmWebStack** is freeware. Enjoy using and sharing it, but note that the source code isn’t available for modifications. Check out the [EULA](https://webstack.wikimint.com/eula) for more details.
 
 ## Contact
 

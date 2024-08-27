@@ -44,4 +44,4 @@ This guide provides information on how to configure the various components of **
 2. **Manage Public Links**
    - The GUI provides quick access to your public Serveo.net links.
 
-For detailed instructions on each component, refer to the specific documentation or visit our [Support Page](https://webstack.wikimint.com/support).
+For detailed instructions on each component, refer to the specific documentation or visit our [Support Page](https://developer.wikimint.com/p/contact.html).
