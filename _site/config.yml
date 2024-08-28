@@ -9,5 +9,6 @@ url: "https://webstack.wikimint.com" # the base hostname & protocol for your sit
 baseurl: "" # the subpath of your site, e.g. /blog
 
 plugins:
+  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
