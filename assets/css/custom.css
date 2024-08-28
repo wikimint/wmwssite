@@ -1,0 +1,22 @@
+/* Custom styles go here */
+
+header {
+    background-color: #f8f9fa;
+    padding: 20px;
+  }
+  
+  footer {
+    background-color: #343a40;
+    color: #fff;
+    padding: 10px;
+  }
+  
+  footer a {
+    color: #17a2b8;
+    text-decoration: none;
+  }
+  
+  .container {
+    margin-top: 20px;
+  }
+  

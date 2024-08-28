@@ -35,9 +35,5 @@ Welcome to **wmWebStack**! This guide will help you get up and running with your
 3. **Publish Your Site**
    - Use the Serveo.net integration to publish your local development site online.
 
-## Troubleshooting
-
-If you encounter issues, refer to the [Troubleshooting Guide](https://webstack.wikimint.com/docs/troubleshooting) for solutions or reach out to support.
-
 For further assistance, visit our [Support Page](https://developer.wikimint.com/p/contact.html).
 

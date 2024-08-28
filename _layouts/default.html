@@ -1,17 +1,25 @@
 <!DOCTYPE html>
-<html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
   <head>
-    <meta charset="utf-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title | escape }} | {{ site.title | escape }}</title>
-    {{ content_for_header }}
-    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+    <title>{{ page.title | escape }}</title>
+
+    <!-- Include the default theme's CSS -->
+    <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+    
+    <!-- Include your custom CSS -->
+    <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
+    {% include head.html %}
   </head>
   <body>
     {% include header.html %}
-    <main>
+
+    <div class="container">
       {{ content }}
-    </main>
+    </div>
+
     {% include footer.html %}
   </body>
 </html>
