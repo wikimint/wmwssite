@@ -4,7 +4,7 @@ title: Version History & Release Notes
 description: Explore the detailed version history and release notes for wmWebStack, highlighting key updates, new features, bug fixes, and enhancements in each software release.
 ---
 
-# wmWebStack Version History & Release Notes
+# Version History & Release Notes
 
 ## Overview
 This document provides a detailed version history and release notes for wmWebStack. Each version includes information on new features, improvements, bug fixes, and other relevant changes.
