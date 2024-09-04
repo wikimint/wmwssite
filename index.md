@@ -11,8 +11,9 @@ description: wmWebStack is a lightweight, HTTP server for Windows with PHP & MyS
   <a href="https://github.com/wikimint/wmWebStack/releases/latest" target="_blank" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Download</a>
   <a href="#documentation" style="background-color: #008CBA; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Documentation</a>
 </div>
+<a href="/version-log">View Version History</a>
 
-<br/><br/>
+<br/>
 ![wmWebStack - a lightweight server stack for localhost with Apache, PHP and MySQL](assets/images/localhost-server-stack-apache-php-mysql.webp)
 
 ## Features
