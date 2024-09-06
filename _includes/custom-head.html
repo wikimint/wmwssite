@@ -4,3 +4,4 @@
 <title>{{ page.title | escape }}</title>
 <meta name="description" content="{{ page.description | escape }}">
 <meta name="keywords" content="{{ page.keywords }}">
+<link rel="canonical" href="{{ site.url }}{{ page.url | remove: ".html" | remove: ".md" | escape }}">
