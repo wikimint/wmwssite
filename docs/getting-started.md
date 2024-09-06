@@ -1,3 +1,12 @@
+---
+layout: default
+title: "Getting Started with wmWebStack | Local Server Setup"
+description: "A comprehensive guide to getting started with wmWebStack, including setup instructions and basic configuration for the local server stack."
+keywords: "wmWebStack, getting started, local server stack, Windows server, Apache, PHP, MySQL, setup guide"
+noindex: false
+---
+
+
 # Getting Started with wmWebStack
 
 Welcome to **wmWebStack**! This guide will help you get up and running with your new web development toolkit.

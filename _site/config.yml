@@ -3,10 +3,18 @@ markdown: kramdown
 
 # Site settings
 title: wmWebStack - HTTP Server Stack for Windows - Apache, PHP & MySQL
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- 
   wmWebStack is a lightweight, installable HTTP server for Windows with all required server stacks. Easy live publishing in one click.
-url: "https://webstack.wikimint.com" # the base hostname & protocol for your site
-baseurl: "" # the subpath of your site, e.g. /blog
+
+url: "https://webstack.wikimint.com" 
+baseurl: "" 
+
+
+# Ensure Jekyll includes the docs folder
+include:
+  - docs
+
+include_homepage: true
 
 plugins:
   - jekyll-feed

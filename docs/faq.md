@@ -1,3 +1,12 @@
+---
+layout: default
+title: "FAQ | wmWebStack Local Server Stack"
+description: "Find answers to frequently asked questions about wmWebStack. Learn more about setup, configuration, and troubleshooting for the local server stack."
+keywords: "wmWebStack, FAQ, frequently asked questions, local server stack, Windows server, troubleshooting, setup"
+noindex: false
+---
+
+
 # Frequently Asked Questions (FAQ)
 
 Here are answers to some of the most common questions about **wmWebStack**.

@@ -1,3 +1,12 @@
+---
+layout: default
+title: "Configuration Guide for wmWebStack | Local Server Stack"
+description: "Detailed configuration instructions for wmWebStack, including how to set up Apache, PHP, and MySQL for your local server environment."
+keywords: "wmWebStack, configuration guide, local server stack, Apache setup, PHP configuration, MySQL configuration, Windows server"
+noindex: false
+---
+
+
 # Configuration Guide for wmWebStack
 
 This guide provides information on how to configure the various components of **wmWebStack** to suit your development needs.

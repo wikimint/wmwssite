@@ -1,8 +1,11 @@
 ---
-layout: home
-title: wmWebStack - HTTP Server for Windows - PHP & MySQL
-description: wmWebStack is a lightweight, HTTP server for Windows with PHP & MySQL. Open-source, no installation required. Easy setup for developers.
+layout: default
+title: "wmWebStack: Local Server Stack for Windows | Apache, PHP, MySQL"
+description: "wmWebStack offers a complete local server stack for Windows, including Apache, PHP, and MySQL. Easy installation and setup for development."
+keywords: "wmWebStack, local server stack, Windows server, Apache, PHP, MySQL, development environment"
+noindex: false
 ---
+
 # Welcome to wmWebStack
 
 **wmWebStack** is a free and installable software package that provides an all-in-one solution for web development on Windows. It includes an intuitive graphical interface that allows you to manage all essential web development tools and utilities with ease. Ideal for developers, testers, and anyone in need of an installable and easy-to-use server solution, wmWebStack offers a robust set of features without the complexity.
