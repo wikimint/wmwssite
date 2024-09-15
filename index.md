@@ -71,12 +71,12 @@ For any inquiries or support, please reach out via [email](mailto:support@wikimi
 
 ## Latest Blog Posts
 
-<ul>
+<div class="list-group mt-4">
   {% for post in site.posts limit: 5 %}
-    <li>
+  <div class="list-group-item list-group-item-action flex-column align-items-start p-4">
       <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
-      <p>{{ post.excerpt | strip_html | truncate: 150 }}</p>
+      <p>{{ post.description | strip_html | truncate: 150 }}</p>
       <p><small>Published on {{ post.date | date: "%B %d, %Y" }}</small></p>
-    </li>
+    </div>
   {% endfor %}
-</ul>
+</div>
