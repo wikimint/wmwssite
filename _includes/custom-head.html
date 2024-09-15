@@ -5,3 +5,29 @@
 <meta name="description" content="{{ page.description | escape }}">
 <meta name="keywords" content="{{ page.keywords }}">
 <link rel="canonical" href="{{ site.url }}{{ page.url | remove: ".html" | remove: ".md" | escape }}">
+<script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "{% if page.layout == 'post' %}Article{% else %}WebPage{% endif %}",
+      "headline": "{{ page.title | escape }}",
+      "description": "{{ page.excerpt | strip_html | strip_newlines | escape }}",
+      "url": "{{ page.url | absolute_url }}",
+      "author": {
+        "@type": "Person",
+        "name": "Selvakumaran Krishnan"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "wmWebStack",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "{{ site.url }}/assets/images/wmWebStack-logo.png"
+        }
+      },
+      "datePublished": "{{ page.date | date_to_xmlschema }}",
+      "dateModified": "{{ page.last_modified_at | date_to_xmlschema }}",
+      "inLanguage": "{{ page.lang | default: site.lang | default: 'en' }}",
+      "keywords": "{{ page.tags | join: ', ' }}"
+    }
+    </script>
+    
