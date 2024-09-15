@@ -8,6 +8,7 @@ description: >-
 
 url: "https://webstack.wikimint.com" 
 baseurl: "" 
+permalink: pretty
 
 
 # Ensure Jekyll includes the docs folder

@@ -2,7 +2,14 @@
 layout: default
 title: "wmWebStack: Local Server Stack for Windows | Apache, PHP, MySQL"
 description: "wmWebStack offers a complete local server stack for Windows, including Apache, PHP, and MySQL. Easy installation and setup for development."
-keywords: "wmWebStack, local server stack, Windows server, Apache, PHP, MySQL, development environment"
+keywords:
+  - wmWebStack
+  - local server stack
+  - Windows server
+  - Apache
+  - PHP
+  - MySQL
+  - development environment
 noindex: false
 ---
 
@@ -61,3 +68,15 @@ noindex: false
 ## Contact
 
 For any inquiries or support, please reach out via [email](mailto:support@wikimint.com) or visit our [Support Page](https://developer.wikimint.com/p/contact.html).
+
+## Latest Blog Posts
+
+<ul>
+  {% for post in site.posts limit: 5 %}
+    <li>
+      <a href="{{ post.url | absolute_url }}">{{ post.title }}</a>
+      <p>{{ post.excerpt | strip_html | truncate: 150 }}</p>
+      <p><small>Published on {{ post.date | date: "%B %d, %Y" }}</small></p>
+    </li>
+  {% endfor %}
+</ul>
